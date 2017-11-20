@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3bfb6974-b07b-465b-8531-57cb06c2f24b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/profiles_project/profiles_api/urls.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/profiles_project/profiles_api/serializers.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles_project/profiles_api/views.py" afterPath="$PROJECT_DIR$/src/profiles_project/profiles_api/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/profiles_project/profiles_project/urls.py" afterPath="$PROJECT_DIR$/src/profiles_project/profiles_project/urls.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,11 +31,21 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/profiles_project/profiles_api/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="41" lean-forward="false" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+            <state relative-caret-position="315">
+              <caret line="54" column="0" lean-forward="true" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="serializers.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/profiles_project/profiles_api/serializers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="47" lean-forward="false" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -85,6 +94,7 @@
         <option value="$PROJECT_DIR$/src/profiles_project/profiles_api/admin.py" />
         <option value="$PROJECT_DIR$/src/profiles_project/profiles_project/urls.py" />
         <option value="$PROJECT_DIR$/src/profiles_project/profiles_api/urls.py" />
+        <option value="$PROJECT_DIR$/src/profiles_project/profiles_api/serializers.py" />
         <option value="$PROJECT_DIR$/src/profiles_project/profiles_api/views.py" />
       </list>
     </option>
@@ -534,10 +544,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/profiles_project/profiles_api/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="47" lean-forward="false" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/profiles_project/profiles_api/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="41" lean-forward="false" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+        <state relative-caret-position="315">
+          <caret line="54" column="0" lean-forward="true" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
