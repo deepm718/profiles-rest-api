@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # TODO: Set to URL of git repo.
-PROJECT_GIT_URL='https://github.com/deepm718/profiles-rest-api.git'
+PROJECT_GIT_URL='ec2-52-40-202-163.us-west-2.compute.amazonaws.com'
 
 
 PROJECT_BASE_PATH='/usr/local/apps'
